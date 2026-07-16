@@ -18,10 +18,10 @@ This repository contains my daily tasks, notes, code, and screenshots completed 
 | Day | Topic | Status |
 |-----|---------|--------|
 | Day 1 | Introduction to IaC & Terraform Basics | ✅ Completed |
-| Day 2 | Coming Soon | ⏳ |
-| Day 3 | Coming Soon | ⏳ |
-| Day 4 | Coming Soon | ⏳ |
-| Day 5 | Coming Soon | ⏳ |
+| Day 2 | HCL Deep Dive: Variables, Types & Expressions | ✅ Completed |
+| Day 3 | Providers, Resources & Your First Cloud Infrastructure (AWS) | ✅ Completed |
+| Day 4 | Terraform State & Remote Backends (Native Locking) | ✅ Completed |
+| Day 5 | Terraform Modules - Reusable & Composable Infrastructure | ✅ Completed |
 | Day 6 | Coming Soon | ⏳ |
 | Day 7 | Coming Soon | ⏳ |
 
