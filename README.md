@@ -22,7 +22,7 @@ This repository contains my daily tasks, notes, code, and screenshots completed 
 | Day 3 | Providers, Resources & Your First Cloud Infrastructure (AWS) | ✅ Completed |
 | Day 4 | Terraform State & Remote Backends (Native Locking) | ✅ Completed |
 | Day 5 | Terraform Modules - Reusable & Composable Infrastructure | ✅ Completed |
-| Day 6 | Coming Soon | ⏳ |
+| Day 6 | Advanced Terraform and Capstone | ✅ Completed |
 | Day 7 | Coming Soon | ⏳ |
 
 ---
