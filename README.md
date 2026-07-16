@@ -18,10 +18,10 @@ This repository contains my daily tasks, notes, code, and screenshots completed 
 | Day | Topic | Status |
 |-----|---------|--------|
 | Day 1 | Introduction to IaC & Terraform Basics | ✅ Completed |
-| Day 2 | Coming Soon | ⏳ |
-| Day 3 | Coming Soon | ⏳ |
-| Day 4 | Coming Soon | ⏳ |
-| Day 5 | Coming Soon | ⏳ |
+| Day 2 | Coming Soon | ✅ Completed |
+| Day 3 | Coming Soon | ✅ Completed |
+| Day 4 | Coming Soon | ✅ Completed |
+| Day 5 | Coming Soon | ✅ Completed |
 | Day 6 | Coming Soon | ⏳ |
 | Day 7 | Coming Soon | ⏳ |
 
